@@ -1,0 +1,12 @@
+Write a blog on Difference between HTTP1.1 vs HTTP2
+Ans:
+HTTP2 is faster than HTTP1.
+HTTP1 loads the resources one by one.
+HTTP1 blocks the resource if one resource is not loaded.
+HTTP2 uses a single TCP connection to send multiple stermes of data.
+HTTP2 does not block any other resources.
+
+Write a blog about objects and its internal representation in Javascript
+Ans:
+Objects is a fundamental data structure that stores collection of data.
+Internally, JavaScript object property consist of key, other objects, even functions, etc...
